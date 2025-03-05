@@ -1,1 +1,34 @@
-/* write your override styles here */
+/* Hide the first graffiti tag */
+#wall .tag-1 {
+  display: none;
+}
+
+/* Hide the second graffiti tag */
+#wall .tag-2 {
+  display: none;
+}
+
+/* Hide the third graffiti tag */
+#wall .tag-3 {
+  display: none;
+}
+
+/* Hide the fourth graffiti tag */
+#wall .tag-4 {
+  display: none;
+}
+
+/* Hide the fifth graffiti tag */
+#wall .tag-5 {
+  display: none;
+}
+
+/* Hide the sixth graffiti tag */
+#wall .tag-6 {
+  display: none;
+}
+
+/* Hide the seventh graffiti tag */
+#wall .tag-7 {
+  display: none;
+}
